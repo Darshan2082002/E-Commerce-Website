@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-toastify": "^11.0.3",
+    "router-dom": "^3.0.1"
+  }
+}
